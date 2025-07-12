@@ -699,6 +699,7 @@
   </script>
   <script src="https://g.lazcdn.com/g/lzd/assets/1.2.13/??babel-polyfill/6.26.0/polyfill.min.js,react/16.8.0/react.production.min.js,react-dom/16.8.0/react-dom.production.min.js"></script>
   <script src="https://g.lazcdn.com/g/lzd/assets/0.0.5/next/0.19.21/next.min.js"></script>
+  <script src="https://glazcdn.com/g/lzd/assets/1.2.13/polyfill.js"></script>
   <link rel="stylesheet" href="https://g.lazcdn.com/g/lzdmod/??site-nav-pc/5.2.43/pc/index.css,site-menu-nav-pc/5.0.83/pc/index.css,site-menu-pc/5.0.51/pc/index.css" />
   <script>
     window.g_config = window.g_config || {};
